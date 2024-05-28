@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Night\\Desktop\\IntroducaoPOOFOA20241-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C16AA208-AE5E-48CF-B3A4-999E65A7E64A}|SistemaFinanceiro\\SistemaFinanceiro.csproj|c:\\users\\night\\desktop\\introducaopoofoa20241-master\\sistemafinanceiro\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C16AA208-AE5E-48CF-B3A4-999E65A7E64A}|SistemaFinanceiro\\SistemaFinanceiro.csproj|solutionrelative:sistemafinanceiro\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C16AA208-AE5E-48CF-B3A4-999E65A7E64A}|SistemaFinanceiro\\SistemaFinanceiro.csproj|c:\\users\\night\\desktop\\introducaopoofoa20241-master\\sistemafinanceiro\\model\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C16AA208-AE5E-48CF-B3A4-999E65A7E64A}|SistemaFinanceiro\\SistemaFinanceiro.csproj|solutionrelative:sistemafinanceiro\\model\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C16AA208-AE5E-48CF-B3A4-999E65A7E64A}|SistemaFinanceiro\\SistemaFinanceiro.csproj|c:\\users\\night\\desktop\\introducaopoofoa20241-master\\sistemafinanceiro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C16AA208-AE5E-48CF-B3A4-999E65A7E64A}|SistemaFinanceiro\\SistemaFinanceiro.csproj|solutionrelative:sistemafinanceiro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADB4564-36AA-406F-9C18-19797D8C8DC1}|SistemaFinanceiroTest\\SistemaFinanceiroTest.csproj|c:\\users\\night\\desktop\\introducaopoofoa20241-master\\sistemafinanceirotest\\contatest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ADB4564-36AA-406F-9C18-19797D8C8DC1}|SistemaFinanceiroTest\\SistemaFinanceiroTest.csproj|solutionrelative:sistemafinanceirotest\\contatest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C16AA208-AE5E-48CF-B3A4-999E65A7E64A}|SistemaFinanceiro\\SistemaFinanceiro.csproj|c:\\users\\night\\desktop\\introducaopoofoa20241-master\\sistemafinanceiro\\agencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C16AA208-AE5E-48CF-B3A4-999E65A7E64A}|SistemaFinanceiro\\SistemaFinanceiro.csproj|solutionrelative:sistemafinanceiro\\agencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Night\\Desktop\\IntroducaoPOOFOA20241-master\\SistemaFinanceiro\\Program.cs",
+              "RelativeDocumentMoniker": "SistemaFinanceiro\\Program.cs",
+              "ToolTip": "C:\\Users\\Night\\Desktop\\IntroducaoPOOFOA20241-master\\SistemaFinanceiro\\Program.cs",
+              "RelativeToolTip": "SistemaFinanceiro\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T23:13:24.109Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Agencia.cs",
+              "DocumentMoniker": "C:\\Users\\Night\\Desktop\\IntroducaoPOOFOA20241-master\\SistemaFinanceiro\\Agencia.cs",
+              "RelativeDocumentMoniker": "SistemaFinanceiro\\Agencia.cs",
+              "ToolTip": "C:\\Users\\Night\\Desktop\\IntroducaoPOOFOA20241-master\\SistemaFinanceiro\\Agencia.cs",
+              "RelativeToolTip": "SistemaFinanceiro\\Agencia.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T22:47:26.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContaTest.cs",
+              "DocumentMoniker": "C:\\Users\\Night\\Desktop\\IntroducaoPOOFOA20241-master\\SistemaFinanceiroTest\\ContaTest.cs",
+              "RelativeDocumentMoniker": "SistemaFinanceiroTest\\ContaTest.cs",
+              "ToolTip": "C:\\Users\\Night\\Desktop\\IntroducaoPOOFOA20241-master\\SistemaFinanceiroTest\\ContaTest.cs",
+              "RelativeToolTip": "SistemaFinanceiroTest\\ContaTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T22:45:34.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Conta.cs",
+              "DocumentMoniker": "C:\\Users\\Night\\Desktop\\IntroducaoPOOFOA20241-master\\SistemaFinanceiro\\Model\\Conta.cs",
+              "RelativeDocumentMoniker": "SistemaFinanceiro\\Model\\Conta.cs",
+              "ToolTip": "C:\\Users\\Night\\Desktop\\IntroducaoPOOFOA20241-master\\SistemaFinanceiro\\Model\\Conta.cs",
+              "RelativeToolTip": "SistemaFinanceiro\\Model\\Conta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T22:14:29.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Night\\Desktop\\IntroducaoPOOFOA20241-master\\SistemaFinanceiro\\Cliente.cs",
+              "RelativeDocumentMoniker": "SistemaFinanceiro\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Night\\Desktop\\IntroducaoPOOFOA20241-master\\SistemaFinanceiro\\Cliente.cs",
+              "RelativeToolTip": "SistemaFinanceiro\\Cliente.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwBsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T22:12:09.027Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

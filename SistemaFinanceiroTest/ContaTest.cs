@@ -6,6 +6,16 @@ namespace SistemaFinanceiroTest
     public class ContaTest
     {
         [TestMethod]
+        public void SaldoInicialInferiorPermitido()
+        {
+            // Cenário
+            decimal saldoInicialInvalido = 10;
+
+            // Verificação
+            Assert.ThrowsException<ArgumentException>(() => new Conta(123, saldoInicialInvalido), "O saldo inicial deve ser superior a R$10,00");
+        }
+
+        [TestMethod]
         public void DepositoTest()
         {
             //cenario

@@ -53,6 +53,5 @@ namespace SistemaFinanceiro
             Cpf = _cpf;
             AnoNascimento = _anoNascimento;
         }
-    }
-    }
+    }   
 }

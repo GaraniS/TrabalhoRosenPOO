@@ -1,0 +1,14 @@
+C:\Users\Night\Desktop\IntroducaoPOOFOA20241-master\SistemaFinanceiro\bin\Debug\net8.0\SistemaFinanceiro.exe
+C:\Users\Night\Desktop\IntroducaoPOOFOA20241-master\SistemaFinanceiro\bin\Debug\net8.0\SistemaFinanceiro.deps.json
+C:\Users\Night\Desktop\IntroducaoPOOFOA20241-master\SistemaFinanceiro\bin\Debug\net8.0\SistemaFinanceiro.runtimeconfig.json
+C:\Users\Night\Desktop\IntroducaoPOOFOA20241-master\SistemaFinanceiro\bin\Debug\net8.0\SistemaFinanceiro.dll
+C:\Users\Night\Desktop\IntroducaoPOOFOA20241-master\SistemaFinanceiro\bin\Debug\net8.0\SistemaFinanceiro.pdb
+C:\Users\Night\Desktop\IntroducaoPOOFOA20241-master\SistemaFinanceiro\obj\Debug\net8.0\SistemaFinanceiro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Night\Desktop\IntroducaoPOOFOA20241-master\SistemaFinanceiro\obj\Debug\net8.0\SistemaFinanceiro.AssemblyInfoInputs.cache
+C:\Users\Night\Desktop\IntroducaoPOOFOA20241-master\SistemaFinanceiro\obj\Debug\net8.0\SistemaFinanceiro.AssemblyInfo.cs
+C:\Users\Night\Desktop\IntroducaoPOOFOA20241-master\SistemaFinanceiro\obj\Debug\net8.0\SistemaFinanceiro.csproj.CoreCompileInputs.cache
+C:\Users\Night\Desktop\IntroducaoPOOFOA20241-master\SistemaFinanceiro\obj\Debug\net8.0\SistemaFinanceiro.dll
+C:\Users\Night\Desktop\IntroducaoPOOFOA20241-master\SistemaFinanceiro\obj\Debug\net8.0\refint\SistemaFinanceiro.dll
+C:\Users\Night\Desktop\IntroducaoPOOFOA20241-master\SistemaFinanceiro\obj\Debug\net8.0\SistemaFinanceiro.pdb
+C:\Users\Night\Desktop\IntroducaoPOOFOA20241-master\SistemaFinanceiro\obj\Debug\net8.0\SistemaFinanceiro.genruntimeconfig.cache
+C:\Users\Night\Desktop\IntroducaoPOOFOA20241-master\SistemaFinanceiro\obj\Debug\net8.0\ref\SistemaFinanceiro.dll
