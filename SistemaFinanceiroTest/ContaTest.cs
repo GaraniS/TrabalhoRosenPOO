@@ -25,7 +25,7 @@ namespace SistemaFinanceiroTest
             Conta conta1 = new Conta(123, saldoInicial);
 
             //ação
-            conta1.Deposito(valorDeposito);
+            conta1.Depositar(valorDeposito);
 
             //verificação
             Assert.AreEqual(saldoFinal, conta1.Saldo);
@@ -41,7 +41,7 @@ namespace SistemaFinanceiroTest
             Conta conta1 = new Conta(123, saldoInicial);
 
             //ação
-            conta1.Saque(valorSaque);
+            conta1.Sacar(valorSaque);
 
             //verificação
             Assert.AreEqual(saldoFinal, conta1.Saldo);
@@ -56,7 +56,7 @@ namespace SistemaFinanceiroTest
             Conta conta1 = new Conta(123, saldoInicial);
 
             //verificação
-            Assert.ThrowsException<ArgumentException>(() => conta1.Saque(valorSaque));
+            Assert.ThrowsException<ArgumentException>(() => conta1.Sacar(valorSaque));
         }
     }
 }
