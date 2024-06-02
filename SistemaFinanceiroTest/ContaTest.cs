@@ -38,7 +38,7 @@ namespace SistemaFinanceiroTest
             const decimal saldoInicial = 1000;
             const decimal valorDeposito = 1000;
             const decimal saldoFinal = 2000;
-            var conta1 = new Conta(123, saldoInicial, _cliente, _agencia);
+            var conta1 = new Conta(1000, saldoInicial, _cliente, _agencia);
 
             conta1.Depositar(valorDeposito);
 
@@ -50,7 +50,7 @@ namespace SistemaFinanceiroTest
         {
             const decimal saldoInicial = 1000;
             const decimal valorDeposito = -1000;
-            var conta1 = new Conta(123, saldoInicial, _cliente, _agencia);
+            var conta1 = new Conta(1000, saldoInicial, _cliente, _agencia);
 
             var ex = Assert.ThrowsException<OperacaoInvalidaException>(() => conta1.Depositar(valorDeposito));
             
@@ -63,7 +63,7 @@ namespace SistemaFinanceiroTest
             const decimal saldoInicial = 1000;
             const decimal valorSaque = 500;
             const decimal saldoFinal = 499.9m;
-            var conta1 = new Conta(123, saldoInicial, _cliente, _agencia);
+            var conta1 = new Conta(1000, saldoInicial, _cliente, _agencia);
 
             conta1.Sacar(valorSaque);
 
@@ -75,7 +75,7 @@ namespace SistemaFinanceiroTest
         {
             const decimal saldoInicial = 1000;
             const decimal valorSaque = -500;
-            var conta1 = new Conta(123, saldoInicial, _cliente, _agencia);
+            var conta1 = new Conta(1000, saldoInicial, _cliente, _agencia);
 
             var ex = Assert.ThrowsException<OperacaoInvalidaException>(() => conta1.Sacar(valorSaque));
             
@@ -87,7 +87,7 @@ namespace SistemaFinanceiroTest
         {
             const decimal saldoInicial = 1000;
             const decimal valorSaque = 1500;
-            var conta1 = new Conta(123, saldoInicial, _cliente, _agencia);
+            var conta1 = new Conta(1000, saldoInicial, _cliente, _agencia);
 
             var ex = Assert.ThrowsException<OperacaoInvalidaException>(() => conta1.Sacar(valorSaque));
             
@@ -101,8 +101,8 @@ namespace SistemaFinanceiroTest
             const decimal valorTransferencia = 500;
             const decimal saldoFinalConta1 = 500;
             const decimal saldoFinalConta2 = 1500;
-            var conta1 = new Conta(123, saldoInicial, _cliente, _agencia);
-            var conta2 = new Conta(321, saldoInicial, _cliente, _agencia);
+            var conta1 = new Conta(1000, saldoInicial, _cliente, _agencia);
+            var conta2 = new Conta(1001, saldoInicial, _cliente, _agencia);
 
             conta1.Transferir(valorTransferencia, conta2);
 
@@ -115,8 +115,8 @@ namespace SistemaFinanceiroTest
         {
             const decimal saldoInicial = 1000;
             const decimal valorTransferencia = -500;
-            var conta1 = new Conta(123, saldoInicial, _cliente, _agencia);
-            var conta2 = new Conta(321, saldoInicial, _cliente, _agencia);
+            var conta1 = new Conta(1000, saldoInicial, _cliente, _agencia);
+            var conta2 = new Conta(1001, saldoInicial, _cliente, _agencia);
 
             var ex = Assert.ThrowsException<OperacaoInvalidaException>(() => conta1.Transferir(valorTransferencia, conta2));
             
@@ -128,8 +128,8 @@ namespace SistemaFinanceiroTest
         {
             const decimal saldoInicial = 1000;
             const decimal valorTransferencia = 1500;
-            var conta1 = new Conta(123, saldoInicial, _cliente, _agencia);
-            var conta2 = new Conta(321, saldoInicial, _cliente, _agencia);
+            var conta1 = new Conta(1000, saldoInicial, _cliente, _agencia);
+            var conta2 = new Conta(1001, saldoInicial, _cliente, _agencia);
 
             var ex = Assert.ThrowsException<OperacaoInvalidaException>(() => conta1.Transferir(valorTransferencia, conta2));
             
@@ -141,7 +141,7 @@ namespace SistemaFinanceiroTest
         {
             const decimal saldoInicial = 1000;
             const decimal valorTransferencia = 500;
-            var conta1 = new Conta(123, saldoInicial, _cliente, _agencia);
+            var conta1 = new Conta(1000, saldoInicial, _cliente, _agencia);
 
             var ex = Assert.ThrowsException<OperacaoInvalidaException>(() => conta1.Transferir(valorTransferencia, conta1));
             
